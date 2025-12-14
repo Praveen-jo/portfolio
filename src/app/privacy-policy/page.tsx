@@ -25,7 +25,7 @@ export default function PrivacyPolicy() {
               <p className="text-sm text-muted-foreground mb-4">Last updated: December 15, 2025.</p>
 
               <p className="mb-4">
-                This Privacy Policy describes how praveenjo.com
+                This Privacy Policy describes how portfolio-three-indol-55.vercel.app
                 (collectively &#39;we&#39;, &#39;us&#39;, or &#39;Praveen Jo&#39;) collect,
                 use, disclose, and protect personal information when you visit or
                 use our portfolio and related services. By accessing or using our
@@ -34,7 +34,7 @@ export default function PrivacyPolicy() {
                 described herein.
               </p>
               <p className="mb-4 text-sm">
-                This Policy also applies to praveenjo.com and any
+                This Policy also applies to portfolio-three-indol-55.vercel.app and any
                 other websites, domains, applications, services, products, or
                 digital properties owned, operated, or offered by Praveen Jo.
                 For clarity, references to

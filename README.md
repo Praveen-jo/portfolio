@@ -157,7 +157,7 @@ This project is private and proprietary.
 - **Email**: praveenjoofficial05@gmail.com
 - **GitHub**: [@Praveen-jo](https://github.com/Praveen-jo)
 - **LinkedIn**: [praveen-joseph](https://www.linkedin.com/in/praveen-joseph-09755423b/)
-- **Website**: [praveenjo.com](https://praveenjo.com)
+- **Website**: [portfolio-three-indol-55.vercel.app](https://portfolio-three-indol-55.vercel.app)
 
 ## 🙏 Acknowledgments
 

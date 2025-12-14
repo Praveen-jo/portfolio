@@ -25,10 +25,10 @@ export default function CookiePolicy() {
               <p className="text-sm text-muted-foreground mb-4">Last updated: December 15, 2025.</p>
 
               <p className="mb-4">
-                This Cookie Policy explains how praveenjo.com (&quot;we&quot;, &quot;us&quot;, or &quot;Praveen Jo&quot;) uses cookies and similar tracking technologies when you visit our website. This policy should be read alongside our <Link href="/privacy-policy" className="underline text-primary">Privacy Policy</Link>, which provides additional information about how we collect, use, and protect your personal information.
+                This Cookie Policy explains how portfolio-three-indol-55.vercel.app (&quot;we&quot;, &quot;us&quot;, or &quot;Praveen Jo&quot;) uses cookies and similar tracking technologies when you visit our website. This policy should be read alongside our <Link href="/privacy-policy" className="underline text-primary">Privacy Policy</Link>, which provides additional information about how we collect, use, and protect your personal information.
               </p>
               <p className="mb-4 text-sm">
-                This Policy applies to praveenjo.com and any other websites, domains, applications, services, products, or digital properties owned, operated, or offered by Praveen Jo.
+                This Policy applies to portfolio-three-indol-55.vercel.app and any other websites, domains, applications, services, products, or digital properties owned, operated, or offered by Praveen Jo.
               </p>
 
               <h3 id="toc" className="text-lg font-medium mt-6">Table of Contents</h3>

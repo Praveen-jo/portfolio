@@ -80,7 +80,7 @@ export const siteConfig: SiteConfig = {
   social: [
     { label: 'GitHub', url: 'https://github.com/Praveen-jo', icon: 'github' },
     { label: 'LinkedIn', url: 'https://www.linkedin.com/in/praveen-joseph-09755423b/', icon: 'linkedin' },
-    { label: 'Website', url: 'https://praveenjo.com', icon: 'globe' },
+    { label: 'Website', url: 'https://portfolio-three-indol-55.vercel.app', icon: 'globe' },
   ],
   navigation: [
     { label: 'Home', href: '/'},
@@ -101,8 +101,8 @@ export const siteConfig: SiteConfig = {
       'TypeScript',
       'TailwindCSS'
     ],
-    canonical: 'https://praveenjo.com',
-    image: 'https://praveenjo.com/og-image.png',
+    canonical: 'https://portfolio-three-indol-55.vercel.app',
+    image: 'https://portfolio-three-indol-55.vercel.app/og-image.png',
     locale: 'en_US',
     type: 'website',
     twitterCard: 'summary_large_image',

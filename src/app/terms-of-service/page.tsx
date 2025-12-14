@@ -24,7 +24,7 @@ export default function TermsOfService() {
           <div className="text-base lg:text-lg space-y-4">
           <p className="text-sm text-muted-foreground mb-4">Last updated: December 15, 2025.</p>
 
-          <p className="mb-4">These Terms of Service (&quot;Terms&quot;) govern your access to and use of praveenjo.com (the &quot;Sites&quot;), owned and operated by Praveen Jo (&quot;we&quot;, &quot;us&quot;). By accessing or using the Sites or purchasing services you agree to be bound by these Terms and any separate agreement you enter into with us.</p>
+          <p className="mb-4">These Terms of Service (&quot;Terms&quot;) govern your access to and use of portfolio-three-indol-55.vercel.app (the &quot;Sites&quot;), owned and operated by Praveen Jo (&quot;we&quot;, &quot;us&quot;). By accessing or using the Sites or purchasing services you agree to be bound by these Terms and any separate agreement you enter into with us.</p>
           <p className="mb-4 text-sm">These Terms also apply to any other websites, domains, applications, services, products, or digital properties owned, operated, or offered by Praveen Jo. References to &quot;we&quot;, &quot;us&quot;, or &quot;our&quot; refer to Praveen Jo.</p>
 
           <p className="mb-2 text-sm font-medium">Minimal collection statement</p>
